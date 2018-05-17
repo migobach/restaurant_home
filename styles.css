@@ -1,0 +1,19 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  color: #FFE7B4
+}
+
+.header {
+  min-height: 500px;
+  background-image: url('assets/coffeeback2.jpg');
+  background-position: center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  align-content: flex-start; 
+  padding: 0 22px;
+}
